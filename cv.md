@@ -34,7 +34,7 @@ Damavand
 ![Painting](https://www.iranexploration.com/ITO/wp-content/uploads/2024/06/Damavand-June-View-from-Pashoureh-Peak-AI-Generated-www.IranExploration.com_.jpg)
 
 
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1691" height="680" src="" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 |  Number | Name |
