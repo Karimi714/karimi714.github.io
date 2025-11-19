@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [music](https://open.spotify.com/)
+* [hiking]
+* [poetry]
 
 

@@ -2,34 +2,36 @@
 layout: single
 author_profile: true
 permalink: /cv/
-title: Resume
-tags: [resume, cv]
+title: works
+tags: [works, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# fateme karimi student of IUST university
 
-werwe
-rwe
+I love nature!
+Smile!
 
-## Tehran
-lsdfksd
-
-### Azadi
-### Enghelab
-
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
+##  Tehran
+I live in Tehran!
 
 
-## Esfahan
-ldkfjs
+### books I want to read:
+### Books I have read before:
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+- Big Dreams
+- The Great Gatsby
+- The Kite Runner
+
+My favorite website is [pinterest](https://www.pinterest.com/).
+
+
+## Beautiful Places
+Damavand
+
+![Painting](https://www.iranexploration.com/ITO/wp-content/uploads/2024/06/Damavand-June-View-from-Pashoureh-Peak-AI-Generated-www.IranExploration.com_.jpg)
 
 
 <iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,4 +39,4 @@ ldkfjs
 
 |  Number | Name |
 |---------|------|
-|1        | Ali  |
+|1        | Fateme  |

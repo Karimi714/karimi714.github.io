@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
+* [Favorite musician](http://myfavoritmusisian.com)
+* [Favorite places](http://places.com)
 * [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [My university](https://www.iust.ac.ir/)
 
