@@ -10,7 +10,7 @@ the picture is:
 
 
 
-![my_painting](../assets/images/my_painting.jpg "painting")
+![my painting](../assets/images/my_painting.jpg "painting")
 
 ---
 **The Code of my painting**:
