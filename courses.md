@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /about me/
+permalink: /courses/
 title: about me
 tags: [Studying, courses]
 modified: 9-14-2019

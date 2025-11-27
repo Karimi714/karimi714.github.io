@@ -5,12 +5,14 @@ title: See MY Project
 ## This is my painting with python
 the picture is:
 - my painting with the turtle library of python
+-
+-
+-
 
 
 
 
-
-![my painting](../assets/images/my_painting.jpg "painting")
+![my painting](/assets/images/my_painting.jpg "painting")
 
 ---
 **The Code of my painting**:
