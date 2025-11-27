@@ -175,10 +175,6 @@ def draw_cload():
    turtle.end_fill()
 
 
-
-
-
-
 def draw_beach():
     
     turtle.penup()
@@ -254,7 +250,6 @@ def draw_bird():
         turtle.fd(l)
 
 
-    
 draw_sky()
 draw_cload()
 make_sun()
@@ -271,8 +266,6 @@ for i in range(4):
     turtle.pendown()
     turtle.setheading(90)
     draw_tree(l,a,13)
-
-
 
 turtle.update()
 turtle.done()
